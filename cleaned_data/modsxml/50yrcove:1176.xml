@@ -1,0 +1,250 @@
+
+<mods xmlns="http://www.loc.gov/mods/v3" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd" version="3.5">
+   <identifier type="local">0012_003665_000002</identifier>
+   <name>
+      <namePart>Oliver, John W., 1878-1966</namePart>
+      <role>
+         <roleTerm type="text" authority="marcrelator" valueURI="http://id.loc.gov/vocabulary/relators/cre">Creator</roleTerm>
+      </role>
+   </name>
+   <titleInfo>
+      <title>Fifty Years in Cades Cove. Memoir 2</title>
+   </titleInfo>
+   <typeOfResource>text</typeOfResource>
+   <originInfo>
+      <dateCreated>unknown</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes" qualifier="inferred">1730</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300028569">manuscripts (document genre)</form>
+      <internetMediaType>image/jp2</internetMediaType>
+      <digitalOrigin>reformatted digital</digitalOrigin>
+   </physicalDescription>
+   <abstract>The second memoir gives a brief overview of the lives of John P. Cable, Robert Burchfield, Russell Gregory, and notable members of their families. The author, John W. Oliver (1878-1966), details improvements to Cades Cove that the residents left behind when the Great Smoky Mountains National Park was formed, such as the Cable Mill, the first store house, and the first dry goods store. The memoir provides genealogical information and a list of Cades Cove residents who fought in the Civil War along with their army affiliation. The author also relates details about the history of Muster Field and the first post office in the Cove.</abstract>
+   <language>
+      <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+   </language>
+   <note>Dates inferred from dates of archival collection.</note>
+   <location>
+      <physicalLocation>University of Tennessee, Knoxville. Special Collections</physicalLocation>
+   </location>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85105476">
+      <topic>Post office buildings</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Post offices</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85025502">
+      <topic>Church</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Churches</topic>
+   </subject>
+   <subject>
+      <topic>Cades Cove (Tenn.)--History</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Cades Cove -- History</topic>
+   </subject>
+   <subject>
+      <topic>Cades Cove (Tenn.)--Structures</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Cades Cove -- Structures</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85087783">
+      <topic>Mountain life</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Mountain life</topic>
+   </subject>
+   <subject>
+      <topic>Mountain people--Genealogy</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Mountain people -- Genealogy</topic>
+   </subject>
+   <subject>
+      <topic>Pioneers--Family</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Pioneer families</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85047299">
+      <topic>Farms</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85077784">
+      <topic>Livestock</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Livestock</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85121208">
+      <topic>Sheep</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85021286">
+      <topic>Cattle</topic>
+   </subject>
+   <subject>
+      <topic>Great Smoky Mountains National Park Development--Cades Cove</topic>
+   </subject>
+   <subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85140205">
+      <topic>United States--History--Civil War, 1861-1865</topic>
+   </subject>
+   <subject authority="dots">
+      <topic>Civil War</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Oliver Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Burchfield Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Tipton Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Gregory Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Shields Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Cable Family</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Cable, John P.</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="dots">
+         <namePart>John P. Cable</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Burchfield, Robert</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Burchfield, Noah</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Cable, Casper</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Gregory, Russell</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Cable, Peter</namePart>
+      </name>
+   </subject>
+   <subject>
+      <name authority="dots">
+         <namePart>Peter Cable</namePart>
+      </name>
+   </subject>
+   <subject>
+      <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85018626">Cades Cove (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.59426, -83.84184</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="dots">Cades Cove</geographic>
+   </subject>
+   <subject>
+      <geographic authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85057008">Great Smoky Mountains (N.C. and Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.58343, -83.50822</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic>Gregory Bald</geographic>
+   </subject>
+   <subject>
+      <geographic authority="dots">Gregory Bald</geographic>
+   </subject>
+   <subject>
+      <geographic>Muster Field</geographic>
+   </subject>
+   <subject>
+      <geographic>Elijah Oliver Cabin</geographic>
+   </subject>
+   <subject>
+      <geographic authority="dots">Elijah Oliver Cabin</geographic>
+   </subject>
+   <subject>
+      <geographic>John Oliver Cabin</geographic>
+      <cartographics>
+         <coordinates>35.60981, -83.7949</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic authority="dots">John Oliver Cabin</geographic>
+   </subject>
+   <subject>
+      <geographic>Cades Cove Post Office</geographic>
+   </subject>
+   <subject>
+      <geographic>Primitive Baptist Church</geographic>
+      <cartographics>
+         <coordinates>34.00232, -84.39659</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic>Primitive Baptist Cemetery</geographic>
+      <cartographics>
+         <coordinates>35.41369, -87.90364</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic>John P Cable Mill Area</geographic>
+      <cartographics>
+         <coordinates>35.58453, -83.84407</coordinates>
+      </cartographics>
+   </subject>
+   <subject>
+      <geographic>Gregory Farm</geographic>
+   </subject>
+   <relatedItem type="host" displayLabel="Project">
+      <titleInfo>
+         <title>Fifty Years in Cades Cove:  The Memoirs of John W. Oliver</title>
+      </titleInfo>
+   </relatedItem>
+   <relatedItem type="host" displayLabel="Collection">
+      <titleInfo>
+         <title>Dunn-Oliver Collection</title>
+      </titleInfo>
+      <identifier type="local">MS.3690</identifier>
+   </relatedItem>  
+ <accessCondition type="use and reproduction">May be protected by copyright. For more information, contact Special Collections at special@utk.edu.</accessCondition>
+   <recordInfo>
+      <recordIdentifier>record_0012_3665_0002_0000</recordIdentifier>
+      <recordContentSource>University of Tennessee, Knoxville. Special Collections</recordContentSource>
+      <languageOfCataloging>
+         <languageTerm type="code" authority="iso639-2b">eng</languageTerm>
+      </languageOfCataloging>
+      <recordOrigin>Created and edited in general conformance to MODS Guidelines (Version 3.5).</recordOrigin>
+   </recordInfo>
+</mods>
